@@ -18,10 +18,16 @@ import url('https://fonts.googleapis.com/css?family=Exo:400,700');
 body{
   font-family: "Open Sans", sans-serif;
   color: #fff;
-  position: relative;
-  background: transparent;
 }
-
+body::before {
+  content: "";
+  position: fixed;
+  background-size: cover;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 100vh;
+}
 
 .context {
     width: 100%;
