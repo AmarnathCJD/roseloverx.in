@@ -9,7 +9,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #010e1b url("https://i.ibb.co/fM52LDs/image-2022-01-02-160211.png") top right no-repeat;
+  background: #010e1b url("bg7.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
