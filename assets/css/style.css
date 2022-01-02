@@ -13,7 +13,7 @@ body {
   color: #fff;
   position: relative;
   background: transparent;
-  background-image: url("1fYZ.gif");
+  background-image: url("./1fYZ.gif");
 }
 
 body::before {
